@@ -1,3 +1,5 @@
+![CI workflow](https://github.com/riccjohn/lycanthrope/actions/workflows/node.js.yml/badge.svg)
+
 # Lycanthrope
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
