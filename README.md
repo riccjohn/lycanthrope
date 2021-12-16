@@ -6,7 +6,17 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+### Installing
+
+This project uses [asdf](https://github.com/asdf-vm/asdf) and the [asdf-nodejs](https://github.com/asdf-vm/asdf-nodejs) plugin for managing the node version. If you have it installed, you can run `asdf install` in the project directory and it will automatically install the node version listed in the `.tool-versions` file
+
+Install dependencies
+
+```zsh
+yarn install
+```
+
+Run the development server:
 
 ```zsh
 yarn dev
